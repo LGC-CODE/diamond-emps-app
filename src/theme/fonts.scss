@@ -1,0 +1,20 @@
+@mixin font-diamondLight() {
+	@font-face {
+		font-family: "SourceProLight";
+		src: url("../assets/global-fonts/SourceSansPro-Light.otf") format("otf");
+	}
+}
+
+@mixin font-diamondRegular() {
+	@font-face {
+		font-family: "SourceProRegular";
+		src: url("../assets/global-fonts/SourceSansPro-Regular.otf") format("otf");
+	}
+}
+
+@mixin font-diamondBold() {
+	@font-face {
+		font-family: "SourceProBold";
+		src: url("../assets/global-fonts/SourceSansPro-Bold.otf") format("otf");
+	}
+}

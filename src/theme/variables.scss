@@ -5,13 +5,14 @@
 // roboto, and noto sans fonts
 $font-path: "../assets/fonts";
 $diamond-blue: #2b3d60;
+$diamond-green: #4cb667;
 
 // The app direction is used to include
 // rtl styles in your app. For more info, please see:
 // http://ionicframework.com/docs/theming/rtl-support/
 $app-direction: ltr;
 
-
+@import "fonts";
 @import "ionic.globals";
 
 

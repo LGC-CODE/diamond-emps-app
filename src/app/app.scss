@@ -1,5 +1,7 @@
 // http://ionicframework.com/docs/theming/
-
+body {
+	@include font-diamondBold;
+}
 
 // App Global Sass
 // --------------------------------------------------
